@@ -17,7 +17,7 @@ Ensure you have Python 3.6+ installed on your system. You can then install the p
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ameyachawlaggsipu/Hybrid_LLM_Classifier/tree/main
+git clone https://github.com/ameyachawlaggsipu/Hybrid_LLM_Classifier.git
 ```
 
 2. Navigate to the cloned directory:
