@@ -23,7 +23,7 @@ git clone https://github.com/ameyachawlaggsipu/Hybrid_LLM_Classifier.git
 2. Navigate to the cloned directory:
 
 ```bash
-cd hybrid_model
+cd Hybrid_LLM_Classifier
 ```
 
 3. Install the package:
